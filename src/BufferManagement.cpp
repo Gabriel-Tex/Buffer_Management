@@ -28,7 +28,7 @@ bool BufferManagement::randomDirty()
 
 std::string BufferManagement::Read(int key)
 {
-    std::ifstream inf{"../database/bancodedados.csv"};
+    std::ifstream inf{ "../database/bancodedados.csv" };
     if (!inf)
     {
         std::cerr << "Erro: arquivo não pôde ser aberto.\n";

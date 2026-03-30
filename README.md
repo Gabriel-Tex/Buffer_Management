@@ -177,16 +177,7 @@ A interface do gerenciador de buffer deverá contar com as funções descritas a
 * `make` 
 * `./buffer`
 
-#### Compilação manual:
-
-Compilar
-* `g++ -std=c++17 -Iinclude src/main.cpp src/BufferManagement.cpp -o executable`
-
-Executar
-* `./executable` (linux)
-* `.\executable.exe` (windows) -> é preciso compilar para windows primeiramente
-
-#### OBS.: o executável do projeto foi compilado em linux
+**OBS.: esse projeto foi desenvolvido em linux utilizando cmake. Portanto, a leitura de arquivos pode falhar se o programa for compilado manualmente devido ao caminho dos arquivos.**
 
 ## Notas de aprendizado
 Notas referentes aos conceitos e features da linguagem C++ nos quais me aprofundei durante o desenvolvimento do projeto.
