@@ -48,9 +48,9 @@ Policy selectPolicy()
     }
 }
 
-std::string policyToString(Policy p)
+std::string policyToString(Policy policy)
 {
-    switch (p)
+    switch (policy)
     {
     case Policy::LRU:
         return "LRU";

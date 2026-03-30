@@ -1,0 +1,1 @@
+## Casos de teste para cada política de substituição

@@ -20,8 +20,11 @@ class BufferManagement{
         std::deque<int> lruQueue; 
         std::deque<int> mruStack;  
 
+        // verifica se a buffer pool está cheia
         bool isFull() const;
+        // gera um dirty aleatório (0 ou 1)
         bool randomDirty();
+        // realiza a leitura de uma linha do arquivo csv a partir de uma chave
         std::string Read(int key);  
 
     public:
