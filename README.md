@@ -194,7 +194,7 @@ Notas referentes aos conceitos e features da linguagem C++ nos quais me aprofund
 * [Input and Output](notes/IO.md)
 * [deque](notes/deque.md)
 
-OBS.: nem todos os assuntos e recursos das notas foram/serão utilizados no desenvolvimento do projeto. As anotações são baseadas num estudo geral de cada tópico realizado antes do desenvolvimento, que geralmente são capítulos compreendidos em https://www.learncpp.com.# Buffer_Management
+OBS.: nem todos os assuntos e recursos das notas foram/serão utilizados no desenvolvimento do projeto. As anotações são baseadas num estudo geral de cada tópico realizado antes do desenvolvimento, que geralmente são capítulos compreendidos em https://www.learncpp.com
 
 ## Bibliografias
 * https://www.learncpp.com/
