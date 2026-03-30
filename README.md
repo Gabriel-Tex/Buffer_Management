@@ -121,7 +121,7 @@ Escolhe o `back`, isto é, o índice usado mais recentemente.
 
 ---
 
-## CLOCK
+#### CLOCK
 
 O ponteiro `circularPtr` percorre os quadros de forma circular.
 
